@@ -8,9 +8,9 @@ namespace Producer
     {
         public static void Main(string[] args)
         {
-            // Pre-requisites: Install Erlang 23.0 and RabbitMQ 3.8.8
+            // Pre-requisites: Install Erlang 27.3 and RabbitMQ 4.1.2
             // Install RabbitMQ plugins:
-            // C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.8\sbin> rabbitmq-plugins enable rabbitmq_management
+            // C:\Program Files\RabbitMQ Server\rabbitmq_server-4.1.2\sbin> rabbitmq-plugins enable rabbitmq_management
             // RabbitMQ management: http://localhost:15672
             // Credentials: guest/guest
 
